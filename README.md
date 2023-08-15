@@ -1,6 +1,6 @@
-# Cancer-Prediction-using-Binary-Classification
+## Cancer-Prediction-using-Binary-Classification
 This Machine learning project for Cancer Prediction
-#Abstract: 
+###Abstract: 
 This report presents the results of a project focused on predicting the occurrence of cancer using binary classification techniques. The primary objective was to develop accurate models that could classify patients into two classes: those with cancer and those without cancer. The study employed various classification algorithms, including Support Vector Machines (SVM), Random Forest, and XGBoost, to achieve this goal. The report discusses the dataset, methodology, model selection, evaluation metrics, and the results obtained.
 #Intro
 Cancer is a complex and devastating disease that requires early detection and diagnosis for effective treatment. Predictive modeling using machine learning techniques offers the potential to assist medical professionals in identifying potential cases of cancer, enabling earlier interventions and improving patient outcomes. This project aims to explore the applicability of binary classification algorithms to predict the presence of cancer based on relevant medical features.
